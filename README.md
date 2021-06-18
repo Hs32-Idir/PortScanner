@@ -1,6 +1,7 @@
 # Demo Port Scanner Free Open Source Version Release
-    coded by Hs32-Idir
-     http://www.Hs32-Idir.tk
+
+A small multi threaded port scanner using Winsock API, with this Delphi example we will show you how to use the Winsock API to make a port scanner for a a target Host, this will automatically resolve the IP from DNS/Host and do a fast scan for a specified port list. Show at the end the port list opened/closed at your configuration with detailled information about port type.
+Its a command line application that can be configured with Data file and or set parameter from a batch file. An example how to use attached to the source.
 
  ADVANCED :
  |--------------------------------------------------|
@@ -16,5 +17,5 @@
  | - Show details about port type.                  |
  |--------------------------------------------------|
 
- * That will give me pleasure if you take some time to make me feedback,
-  and please give credit if you use this source in your application.
+  Coded by Hs32-Idir
+     http://www.Hs32-Idir.tk
